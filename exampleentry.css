@@ -1,0 +1,59 @@
+:root{
+  font-family: arial;
+  background-color: #990808;
+}
+
+.entry-logo{
+  text-align: center;
+  width: 300px;
+  margin-right: auto;
+  margin-left: auto;
+  font-size: 30px;
+  background-color: #ffffff;
+  border-radius: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.entry-mainpage{
+  background-color: white;
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+  min-height: 500px;
+  box-shadow: 5px 5px 20px 5px #555;
+}
+
+.entry-mainpage-title{
+  font-size: 30pt;
+  text-decoration: underline;
+}
+
+.entry-mainpage-coverart{
+  width: 200px;
+  height: auto;
+  margin-left: 30px;
+  float: left;
+  
+}
+.entry-mainpage-article h1{
+  font-size: 20pt;
+  color: #333;
+  margin-top: 30pt;
+}
+.entry-mainpage-gallery{
+  width: 90%;
+  margin-left: 5%;
+  margin-right: 5%;
+  background-color: #444;
+  height: 130px;
+  display: inline-block;
+}
+.entry-mainpage-gallery img{
+  height: 120px;
+  width: auto;
+  margin-top: 5px;
+  
+  vertical-align: middle;
+  
+}
