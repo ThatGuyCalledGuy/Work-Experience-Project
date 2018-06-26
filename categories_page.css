@@ -17,3 +17,17 @@
   font-size: 15px;
   text-align: center;
 }
+
+.pageborder{
+  background-color: #c1c1c1;
+  border-style: solid;
+  border-left-style: hidden;
+  padding-top: 40px;
+  width: 125px;
+  position: fixed;
+  height: 100%;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  overflow-x: hidden;
+}
