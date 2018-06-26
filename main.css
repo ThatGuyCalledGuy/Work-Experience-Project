@@ -61,3 +61,15 @@
   cursor: pointer;
 }
 
+.TrendingAndNews {
+ display: flex; 
+}
+
+.Trending {
+ order: 1; 
+}
+
+
+.News {
+ order: 2; 
+}
