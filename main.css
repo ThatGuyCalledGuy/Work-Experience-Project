@@ -8,6 +8,7 @@
   overflow-x: scroll;
   white-space: nowrap;
   margin-right: 10px;
+  
 }
 
 .newsitemtext {
@@ -15,7 +16,7 @@
 }
 
 .newsitem {
- 
+ border: solid;
   height: 250px;
   background-color: white;
   margin-right: 8px;
@@ -54,7 +55,10 @@
     background-color: #10c1c1;
   color: white
 }
-
+.pageborder a.active {
+    background-color: #10c1c1;
+  color: white
+}
 .menubutton {
   border: none;
   outline: none;
@@ -80,10 +84,15 @@
 .News {
   border-style:hidden hidden hidden solid;
   margin-left: 1px;
+  padding-right: 10px;
   width: 50%;
 
 }
 
+.News Div Article {
+  margin: 10px;
+  margin-top:0px;
+}
 
 .flexlist {
   display: flex;
