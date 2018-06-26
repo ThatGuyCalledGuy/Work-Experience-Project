@@ -1,5 +1,5 @@
 .grid-container {
-  margin-left: 145px
+  margin-left: 145px;
   display: grid;
   grid-template-columns: auto auto;
   background-color: rgba(192,192,192,0.3);
