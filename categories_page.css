@@ -12,12 +12,11 @@
   padding: 10px;
 }
 .grid-item {
-  align: left;
   background-color: rgba(255, 255, 255, 0.8);
   border: 1px solid rgba(0, 0, 0, 0.8);
   padding: 20px;
   font-size: 15px;
-  text-align: center;
+  text-align: left;
 }
 
 .pageborder{
