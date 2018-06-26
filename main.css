@@ -66,10 +66,10 @@
 }
 
 .Trending {
- order: 1; 
+  flex: 0 0 50%
 }
 
 
 .News {
- order: 2; 
+  flex: 0 0 50%
 }
