@@ -116,6 +116,7 @@ button:hover {
 /* Add padding to container elements */
 .container {
     padding: 16px;
+    margin-right: 145px   
 }
 
 /* Clear floats */
@@ -132,6 +133,3 @@ button:hover {
     }
 }
 
-.right_margin {
- margin-right: 145px   
-}
