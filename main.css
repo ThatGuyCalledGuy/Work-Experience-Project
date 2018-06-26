@@ -62,14 +62,16 @@
 }
 
 .TrendingAndNews {
- display: flex; 
+ display: inline-block; 
 }
 
 .Trending {
-  flex: 0 0 50%
+  display: inline-block;
+  float: left;
 }
 
 
 .News {
-  flex: 0 0 50%
+  display: inline-block;
+  float: right;
 }
