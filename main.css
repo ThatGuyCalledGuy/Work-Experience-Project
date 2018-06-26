@@ -1,5 +1,5 @@
 :root {
-  background-color: #eee;
+  background-color: rgba 061,156,125,0.1;
   font-family: Helvetica;
 }
 
@@ -30,7 +30,7 @@
   padding-top: 20%;
 }
 .pageborder{
-  background-color: #a0a0a0;
+  background-color: #c1c1c1;
   border-style: solid;
   border-left-style: hidden;
   padding-top: 40px;
@@ -50,7 +50,7 @@
     display: block;
 }
 .pageborder a.hover {
-    color: #c5c5c5;
+    color: #f1f1f1;
 }
 
 .menubutton {
@@ -61,6 +61,7 @@
 }
 
 .TrendingAndNews {
+  background-color: rgba 061,156,125,0.1;
   margin-left: 135px;
   display: flex;
   flex-direction: row ltr;
@@ -68,17 +69,20 @@
 }
 
 .Trending {
-width: 40%;
+  border-style: hidden solid hidden hidden;
+  margin-right: 1px;
+  width: 45%;
 }
 
 
 .News {
-  width: 40%;
+  border-style:hidden hidden hidden solid;
+  margin-left: 1px;
+  width: 45%;
 
 }
 
-.Find-Games-Query-Box {
-  width: 500px;
-  padding: 10px;
-  
+.flexlist {
+  display: flex;
+  flex-flow: row wrap;
 }
