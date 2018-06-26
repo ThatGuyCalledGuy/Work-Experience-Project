@@ -43,3 +43,20 @@
     background-color: #10c1c1;
   color: white
 }
+
+.searchbar {
+  display: block
+}
+
+.searchbar input {
+    padding: 6px;
+    overflow: hidden;
+    width: 70%;
+    margin-bottom: 16px;
+    font-size: 17px;
+}
+
+#Submit {
+  width:50px;
+  font-size:14px
+}
