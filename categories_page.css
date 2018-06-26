@@ -1,3 +1,8 @@
+:root {
+  background-color: #aaa;
+  font-family: Helvetica;
+}
+
 .grid-container {
   margin-left: 145px;
   display: grid;
