@@ -32,3 +32,15 @@
   left: 0;
   overflow-x: hidden;
 }
+
+.pageborder a {
+    padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    font-size: 18px;
+    color: #111111;
+    display: block;
+}
+.pageborder a:hover {
+    background-color: #10c1c1;
+  color: white
+}
