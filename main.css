@@ -30,7 +30,7 @@
   padding-top: 20%;
 }
 .pageborder{
-  background-color: #c1c1c1;
+  background-color: #a0a0a0;
   border-style: solid;
   border-left-style: hidden;
   padding-top: 40px;
@@ -50,7 +50,7 @@
     display: block;
 }
 .pageborder a.hover {
-    color: #f1f1f1;
+    color: #c5c5c5;
 }
 
 .menubutton {
