@@ -61,7 +61,7 @@
 }
 
 .TrendingAndNews {
-  margin-left: 135px
+  margin-left: 135px;
   display: flex;
   flex-direction: row ltr;
   flex-wrap: nowrap;
