@@ -7,7 +7,6 @@
   overflow-y: hidden;
   overflow-x: scroll;
   white-space: nowrap;
-  margin-left: 135px
 }
 
 .newsitemtext {
@@ -62,6 +61,7 @@
 }
 
 .TrendingAndNews {
+  margin-left: 135px
   display: flex;
   flex-direction: row ltr;
   flex-wrap: nowrap;
