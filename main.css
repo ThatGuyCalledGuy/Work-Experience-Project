@@ -1,1 +1,63 @@
+:root {
+  background-color: #f2f2f2;
+   font-family: Helvetica;
+}
+
+.newslist {
+  overflow-y: hidden;
+  overflow-x: scroll;
+  white-space: nowrap;
+  margin-left: 135px
+}
+
+.newsitemtext {
+  height: 70%;
+}
+
+.newsitem {
+ 
+  height: 250px;
+  background-color: white;
+  margin-right: 8px;
+  position: relative;
+  vertical-align: top;
+  box-sizing: border-box;
+  display: inline-block;
+  padding: 16px
+}
+
+.newsitemchannel {
+  text-transform: uppercase;
+  padding-top: 20%;
+}
+.pageborder{
+  background-color: #c1c1c1;
+  border-style: solid;
+  border-left-style: hidden;
+  padding-top: 40px;
+  width: 125px;
+  position: fixed;
+  height: 100%;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  overflow-x: hidden;
+}
+.pageborder a {
+    padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    font-size: 18px;
+    color: #111111;
+    display: block;
+}
+.pageborder a.hover {
+    color: #f1f1f1;
+}
+
+.menubutton {
+  border: none;
+  outline: none;
+  padding 10px 16px;
+  cursor: pointer;
+}
 
