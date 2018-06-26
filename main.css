@@ -3,6 +3,27 @@
   font-family: Helvetica;
 }
 
+.UserBar {
+  float: right;
+  background-color: #e3e3e3;
+  margin: 2px;
+  display: inline-block;
+}
+
+.UserBar a {
+  padding: 6px;
+    margin: 1px;
+    text-decoration: none;
+    font-size: 18px;
+    color: #111111;
+    display: block;
+}
+
+.UserBar a:hover {
+    background-color: #10c1c1;
+  color: white
+}
+
 .newslist {
   overflow-y: hidden;
   overflow-x: scroll;
@@ -115,3 +136,4 @@
   width:50px;
   font-size:14px
 }
+
