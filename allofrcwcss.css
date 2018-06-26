@@ -47,7 +47,7 @@
 .searchbar {
   margin-left: 145px;
   display: block;
-  width: calc(100% - 150px);
+  width: calc(100% - 250px);
   margin-right:15px
 }
 
