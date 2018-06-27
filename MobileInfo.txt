@@ -6,7 +6,7 @@ Put this in the head of the html file.
 CSS: 
 
 @media screen and (max-width:1080px) {
-  This means that CSS for screens that are 1080 pixels or less will be put in this section (I chose 1080 as that is the width of my phone screen)
+  This means that CSS for screens that are 1080 pixels or less should be put in this section (I chose 1080 as that is the width of my phone screen)
 }
 
 ^ Could be replaced by:
