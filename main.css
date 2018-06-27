@@ -1,5 +1,5 @@
 :root {
-  background-color: #aaa;
+  background-color: rgba 061,156,125,0.1;
   font-family: Helvetica;
 }
 
@@ -9,6 +9,7 @@ img {
 }
 
 .UserBar {
+  box-shadow: 3pt 3pt 5pt;
   float: right;
   background-color: #e3e3e3;
   margin: 2px;
@@ -75,6 +76,7 @@ img {
 }
 
 .newsitem {
+  box-shadow: 3pt 3pt 5pt;
  border: solid;
   height: 250px;
   background-color: white;
@@ -174,4 +176,6 @@ img {
   width:50px;
   font-size:14px
 }
+
+
 
