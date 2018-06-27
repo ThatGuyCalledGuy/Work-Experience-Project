@@ -14,6 +14,7 @@ Get Filler Text From:
  Current Bug List:
 
 - Navbar's buttons cannot use href, so they are relatively useless since they cannot guide anyone anywhere
+-On About page: the text is against the border - add a margin or padding
 
  Ideas:
 
