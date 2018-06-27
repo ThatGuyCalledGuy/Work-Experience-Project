@@ -22,4 +22,4 @@ Useful Links:
 
 Updates in Warwick Site for Guy:
 
-- Tom has made a bar which is quite cool and good. Guy, please check it out and decide if we use Tom's bar or use your bar
+- We are currently using margin-top 75px as universal to prevent the page's information from colliding with tom's task bar
