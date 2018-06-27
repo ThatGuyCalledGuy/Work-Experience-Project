@@ -47,7 +47,3 @@ Friday:
   1.) Presentation in the morning 20 minutes
   
   2.) Tools that were used, planning methods, how to work as a team, what we have learnt, what we have achieved in the pwoerpoint on Friday (sort of a story, which is only a few minutes, would be great if there is powerpoint), presentation script
-
-Pssssst... Guy did you see me scratching my genitals in the conference this morning :O)
-
-No... the screen was only on you for like a minute and even if it was on for longer I wouldn't have been looking
