@@ -7,11 +7,15 @@
   
   <script>
     function search(event) {
-      let target.toLowerCase() = document.querySelector('[data-tag*=' + event.target.value + ']');
+      let target = document.querySelector('[data-tag*=' + event.target.value + ']');
       if (target) {
         target.scrollIntoView();
       }
     }  
+    function forceLower(strInput) 
+    {
+      strInput.value=strInput.value.toLowerCase();
+    }
   </script>
   
   <body>
@@ -24,7 +28,7 @@
       <a class="" href="#SocialMediaLinks"> Follow us </a>                           
     </div>
     <div class="searchbar">
-      <input type="text" placeholder="Search For Games..." style='width: 100%' onchange="search(event)">
+      <input type="text" placeholder="Search For Games..." style='width: 100%' onchange="search(event)" onkeyup="return forceLower(this)>
     </div>
     <div class="grid-container">
       <div class="grid-item">Multiplayer Online Battle Arena</div>
