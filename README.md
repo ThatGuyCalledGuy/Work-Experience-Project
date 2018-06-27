@@ -12,5 +12,14 @@ Useful Links:
 
 1.) Index Page: The Ultimate Duck Hunting trending games does not go to exampleentry.html - this is because exampleentry.html isn't an example entry
 
-Ideas??
-Make it mobile friendly?
+ Ideas:
+
+- Make it mobile friendly?
+
+- Javascript to support searching?
+
+- Should we make every page the same in colour, font size, font type and make everything look similar rather than the main page being white and the pages I made are grey in background-colour?
+
+Updates in Warwick Site for Guy:
+
+- We are learning Javascript this afternoon for logging in and searching fields (I think)
