@@ -14,8 +14,6 @@ Useful Links:
 - On About page: the text is against the border - add a margin or padding (To Tom: Solved?)
 
  Ideas:
- 
-- Add a *fake* link to the store on the example entry (pretend it's for that specific product)(can also have stores other than steam e.g. amazon or game)
 
 + Background color too dark - maybe #fcfcfc
 --> Rudy: I suggest using #f1f1f1 instead of #fcfcfc it looks too much like white, furthermore, change all pages from #aaaaaa to #f1f1f1 because input boxes collide in colour when clicked to the wallpaper
@@ -49,3 +47,5 @@ To do list:
  Friday:
 
   1.) Presentation in the morning
+
+Pssssst... Guy did you see me scratching my genitals in the conference this morning :O)
