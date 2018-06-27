@@ -42,16 +42,17 @@ img {
 
 .imageandlinkcontainer {
   height:100%;
-  width: 250px;
+  width: 150px;
   text-align: center;
   display: flex;
-  flex-flow: row nowrap;
+  flex-flow: row wrap;
   justify-content: center;
   
 }
 
 .imageandlinkcontainer div {
   overflow: auto;
+  Height: 200px
 }
 
 .imageandlinkcontainer a {
