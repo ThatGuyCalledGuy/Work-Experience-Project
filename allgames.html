@@ -4,17 +4,6 @@
   <head>
     <link rel="stylesheet" href="allofrcwcss.css">
   </head>
-  
-  <script>
-    function search(event) {
-      let target = document.querySelector('[data-tag*=' + event.target.value.toLowerCase() + ']');
-      if (target) {
-        target.scrollIntoView();
-      }
-    }  
-    
-  </script>
-  
   <body>
     {% include_relative navbar.html %}
     <div>
