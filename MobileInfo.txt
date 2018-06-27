@@ -1,0 +1,24 @@
+How to actually do a mobile version of the website:
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+Put this in the head of the html file.
+
+CSS: 
+
+@media screen and (max-width:1080px) {
+  This means that CSS for screens that are 1080 pixels or less will be put in this section (I chose 1080 as that is the width of my phone screen)
+}
+
+^ Could be replaced by:
+
+@media screen and (orientation:portrait) {
+}
+@media screen and (orientation: landscape) {
+}
+
+
+Potentially multiple css files for each different screen version:
+
+<link rel="stylesheet" type="text/css" media="screen and (max-width: 360px)" href="portrait.css">
+<link rel="stylesheet" type="text/css" media="screen and (min-width: 361px) and (max-width: 480px)" href="landscape.css">
+<link rel="stylesheet" type="text/css" media="screen and (min-width: 481px)" href="desktop.css">
