@@ -1,1 +1,57 @@
-
+---
+---
+<html>
+  <head>
+    <link rel="stylesheet" href="allofrcwcss.css">
+  </head>
+  
+  <script>
+    function search(event) {
+      let target = document.querySelector('[data-tag*=' + event.target.value.toLowerCase() + ']');
+      if (target) {
+        target.scrollIntoView();
+      }
+    }  
+    
+  </script>
+  
+  <body>
+    {% include_relative navbar.html %}
+    <div class="searchbar">
+      <input type="text" placeholder="Search For Game Types..." style='width: 100%' onchange="search(event)">
+    </div>
+    <div>
+      <div data-tag='blackjack'> - Black Jack <br> </div>
+      <div data-tag='callofduty'> - Call of Duty <br> </div>
+      <div data-tag='companyofheroes'> - Company of Heroes <br> </div>
+      <div data-tag='crowfall'> - Crowfall <br> </div>
+      <div data-tag='dontstarve'> - Don't Starve <br> </div>
+      <div data-tag='doomvdr'> - Doom VDR <br> </div>
+      <div data-tag='dota2'> - Dota 2 <br> </div>
+      <div data-tag='fifa18'> - Fifa 18 <br> </div>
+      <div data-tag='fortnite'> - Fortnite <br> </div>
+      <div data-tag='halowars2'> - Halo Wars 2 <br> </div>
+      <div data-tag='headsoccar'> - Head Soccar <br> </div>
+      <div data-tag='hearthstone'> - Hearthstone <br> </div>
+      <div data-tag='heroesofthestorm'> - Heroes of the Storm <br> </div>
+      <div data-tag='leagueoflegends'> - League of Legends <br> </div>
+      <div data-tag='microsoftflightsimulator'> - Microsoft Flight Simulator <br> </div>
+      <div data-tag='minecraft'> - Minecraft <br> </div>
+      <div data-tag='moderncombat'> - Modern Combat <br> </div> 
+      <div data-tag='nba2k18'> - NBA 2k18 <br> </div> 
+      <div data-tag='openttd'> - Open TTD <br> </div> 
+      <div data-tag='pubg'> - Player Unknown BattleGrounds <br> </div>
+      <div data-tag='raft'> - Raft <br> </div> 
+      <div data-tag='riseofnations'> - Rise of Nations <br> </div> 
+      <div data-tag='rulesofsurvival'> - Rules of Survival (Mobile) <br> </div> 
+      <div data-tag='rust'> - Rust <br> </div> 
+      <div data-tag='smite'> - Smite <br> </div> 
+      <div data-tag='startrekbridgecrew'> - Star Trek: Bridge Crew <br> </div> 
+      <div data-tag='starwarstheoldrepublic'> - Star Wars: The Old Republic <br> </div> 
+      <div data-tag='tera'> - TERA <br> </div> 
+      <div data-tag='theclimb'> - The Climb <br> </div> 
+      <div data-tag='thesims4'> - The Sims 4 <br> </div> 
+      <div data-tag='ultimateduckhunting'> - Ultimate Duck Hunting </div>
+    </div>
+  </body>
+</html>
