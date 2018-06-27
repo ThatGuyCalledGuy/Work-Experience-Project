@@ -1,6 +1,7 @@
 :root {
   background-color: #aaa;
   font-family: Helvetica;
+  margin-
 }
 
 .grid-container {
@@ -125,7 +126,8 @@ button:hover {
 
 /* Add padding to container elements */
 .container {
-    padding: 16px;
+  padding: 16px;
+  margin-top: 75px;
 }
 
 /* Clear floats */
