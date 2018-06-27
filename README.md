@@ -41,11 +41,11 @@ To do list:
    3.) Put the Trending Games individually on a site, called trending.html and place it under the section of games
   
    4.) Mrs Oates will come and visit us at around 11am, be ready to show her what we have got
-   
-   5.) Tools that were used, planning methods, how to work as a team, what we have learnt, what we have achieved in the pwoerpoint on Friday (sort of a story, which is only a few minutes, would be great if there is powerpoint), presentation script
+  
+Friday:
 
- Friday:
-
-  1.) Presentation in the morning
+  1.) Presentation in the morning 20 minutes
+  
+  2.) Tools that were used, planning methods, how to work as a team, what we have learnt, what we have achieved in the pwoerpoint on Friday (sort of a story, which is only a few minutes, would be great if there is powerpoint), presentation script
 
 Pssssst... Guy did you see me scratching my genitals in the conference this morning :O)
