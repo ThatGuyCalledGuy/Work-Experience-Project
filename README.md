@@ -7,6 +7,9 @@ Useful Links:
  
  Game Entry Example:
   https://thatguycalledguy.github.io/Work-Experience-Project/exampleentry.html
+  
+Get Filler Text From:
+  https://www.lipsum.com/feed/html
  
  Current Bug List:
 
