@@ -10,11 +10,9 @@ Useful Links:
  
  Current Bug List:
 
-1.) Index Page: The Ultimate Duck Hunting trending games does not go to exampleentry.html - this is because exampleentry.html isn't an example entry
+- Blank - neat
 
  Ideas:
-
-- Make it mobile friendly?
 
 - Javascript to support searching?
 
@@ -22,6 +20,8 @@ Useful Links:
 
 + Background color too dark - maybe #fcfcfc
 
-Updates in Warwick Site for Guy:
 
-- We are currently using margin-top 75px as universal to prevent the page's information from colliding with tom's task bar
+Ideas for Mobile Friendly...
+
+- Index page: Make the two columns stack vertically and shrink the nav bar ( or make it button activated in JS )
+   For mobile having the news/reviews tab overflow is alright/preferable - as atm it just goes down the page
