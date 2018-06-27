@@ -40,20 +40,23 @@
 
 .navbar-logo {
   height: auto;
-  width: 150px;
+  width: 160px;
   background-color: #444;
   border-radius: 10px 0px 0px 10px;
   display: flex;
   float: left;
 }
 
-.navbar-logo h1{
+.navbar-logo a{
   color: white;
-  font-size: 20pt;
+  font-size: 24pt;
   text-align: center;
   margin-right: 0px;
+  margin-bottom: 20px;
   padding: 0px 10px 0px 10px;
   margin-top: auto;
+  font-weight: bold;
+  text-decoration: none;
 }
 
 .navbar-dropcontent {
