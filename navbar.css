@@ -12,7 +12,12 @@
   box-shadow: 2px 2px 7px;
   display: flex;
   margin-bottom: 20px;
-  margin-top: 10px
+  margin-top: 10px;
+    
+  /* For Always On Top */
+  position: fixed;
+  z-index: 999;
+  
 }
 .navbar-optionslist{
   width: 100%;
@@ -35,6 +40,7 @@
   padding-left: 10px;
   padding-right: 10px;
   margin: 0px;
+  color: white
   
 }
 
