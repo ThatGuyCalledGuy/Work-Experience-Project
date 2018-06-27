@@ -132,6 +132,8 @@ img {
   display: flex;
   flex-direction: row ltr;
   flex-wrap: nowrap;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .Trending {
