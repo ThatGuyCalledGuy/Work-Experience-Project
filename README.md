@@ -10,7 +10,7 @@ Useful Links:
  
  Current Bug List:
 
-- Navbar links are blue - solution: text-decoration:none;
+- Navbar's buttons cannot use href, so they are relatively useless since they cannot guide anyone anywhere
 
  Ideas:
 
