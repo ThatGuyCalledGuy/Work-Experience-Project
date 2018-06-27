@@ -45,6 +45,7 @@
 
 .searchbar {
   display: block;
+  width: 90%
 }
 
 .searchbar input {
