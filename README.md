@@ -19,6 +19,7 @@ Useful Links:
 - Should we make every page the same in colour, font size, font type and make everything look similar rather than the main page being white and the pages I made are grey in background-colour?
 
 + Background color too dark - maybe #fcfcfc
+--> Rudy: I suggest using #f1f1f1 instead of #fcfcfc it looks too much like white, furthermore, change all pages from #aaaaaa to #f1f1f1 because input boxes collide in colour when clicked to the wallpaper
 
 
 Ideas for Mobile Friendly...
