@@ -82,7 +82,7 @@
   z-index: 1;
   margin-top: 0px;
   position: absolute;
-  box-shadow: 1pt 1pt 6pt;
+  box-shadow: 1pt 1pt 6pt #000;
   border-radius: 3px;
 }
 
