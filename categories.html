@@ -7,15 +7,12 @@
   
   <script>
     function search(event) {
-      let target = document.querySelector('[data-tag*=' + event.target.value + ']');
+      let target = document.querySelector('[data-tag*=' + event.target.value.toLowerCase() + ']');
       if (target) {
         target.scrollIntoView();
       }
     }  
-    function forceLower(strInput) 
-    {
-      strInput.value=strInput.value.toLowerCase();
-    }
+    
   </script>
   
   <body>
@@ -37,9 +34,9 @@
       <div class="grid-item">Player Unknown BattleGrounds <br> Fortnite <br> Rules of Survival (Mobile)</div>
       <div class="grid-item" data-tag="fps">First Person Shooter</div>
       <div class="grid-item">Call of Duty <br> Modern Combat <br> <a href='exampleentry.html'>Ultimate Duck Hunting</a></div>  
-      <div class="grid-item" data-tag="card games">Cards Games</div>
+      <div class="grid-item" data-tag="card">Cards Games</div>
       <div class="grid-item"> Hearthstone <br> Black Jack</div>
-      <div class="grid-item" data-tag="survival games">Survival Games</div>
+      <div class="grid-item" data-tag="survival">Survival Games</div>
       <div class="grid-item">Raft <br> Minecraft <br> Rust <br> Don't Starve</div>
       <div class="grid-item" data-tag="mmo">Massivily Multiplayer Online</div>
       <div class="grid-item">TERA <br> Crowfall <br> Star Wars: The Old Republic</div>
