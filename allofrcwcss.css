@@ -4,7 +4,6 @@
 }
 
 .grid-container {
-  margin-left: 145px;
   display: grid;
   grid-template-columns: 30% 70%;
   grid-template-rows: auto;
@@ -45,7 +44,6 @@
 }
 
 .searchbar {
-  margin-left: 145px;
   display: block;
   width: calc(100% - 150px);
 }
