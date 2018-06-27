@@ -13,6 +13,6 @@ Useful Links:
 
 Current Bug List:
 
-1.) Index Page: News Button does not go to www.bbc.co.uk: Fixing Method: Add http:// in front of www.bbc.co.uk
+1.) Index Page: News Button does not go to www.bbc.co.uk: Fixing Method: Add http:// in front of www.bbc.co.uk - FIXED
 
 2.) Index Page: The Ultimate Duck Hunting featured games does not go to exampleentry.html - this is because exampleentry.html isn't an example entry
