@@ -18,3 +18,5 @@ Current Bug List:
 2.) Index Page: The Ultimate Duck Hunting trending games does not go to exampleentry.html - this is because exampleentry.html isn't an example entry
 
 3.) Index Page: The Ultimate Duck Hunting trending games button does not do anything. It only makes a long string of ULTIMATE DUCK HUNTING.
+
+4.) Login and Register Page: The Cancel Button does not return the user to the index.html
