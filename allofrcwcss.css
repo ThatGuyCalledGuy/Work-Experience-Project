@@ -136,11 +136,3 @@ button:hover {
     clear: both;
     display: table;
 }
-
-/* Change styles for cancel button and signup button on extra small screens */
-@media screen and (max-width: 200px) {
-    .cancelbtn, .signupbtn {
-       width: 100%;
-    }
-}
-
