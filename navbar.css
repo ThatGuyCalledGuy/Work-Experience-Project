@@ -2,6 +2,10 @@
   font-family: helvetica;
 }
 
+a {
+text-decoration: none;
+}
+
 .navbar{
   background-color: #222;
   width: 90%;
