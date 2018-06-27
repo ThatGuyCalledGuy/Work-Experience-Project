@@ -1,0 +1,82 @@
+:root {
+  font-family: helvetica;
+}
+
+.navbar{
+  background-color: #222;
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+  min-height: 60px;
+  border-radius: 10px;
+  box-shadow: 2px 2px 7px;
+  display: flex;
+}
+.navbar-optionslist{
+  width: 100%;
+  position: relative;
+  list-style-type: none;
+  list-style-width: 0px;
+  display: flex;
+  font-size: 15pt;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  padding: 0px
+}
+
+.navbar-optionslist button{
+  font-size: 15pt;
+  height: 40px;
+  color: white;
+  background-color: Transparent;
+  border-style: none;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin: 0px;
+  
+}
+
+.navbar-logo {
+  height: auto;
+  width: 150px;
+  background-color: #444;
+  border-radius: 10px 0px 0px 10px;
+  display: flex;
+  float: left;
+}
+
+.navbar-logo h1{
+  color: white;
+  font-size: 20pt;
+  text-align: center;
+  margin-right: 0px;
+  padding: 0px 10px 0px 10px;
+  margin-top: auto;
+}
+
+.navbar-dropcontent {
+  display: none;
+  background-color: grey;
+  min-width: 160px;
+  z-index: 1;
+  margin-top: 0px;
+  position: absolute;
+  box-shadow: 1pt 1pt 6pt;
+  border-radius: 3px;
+}
+
+.navbar-dropcontent a{
+  display: block;
+  text-align: left;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-size: 13pt;
+  color: white;
+  text-decoration: none;
+}
+
+.navbar-dropdown:hover .navbar-dropcontent {
+  display: block;
+}
