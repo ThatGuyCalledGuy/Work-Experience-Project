@@ -10,7 +10,7 @@ Useful Links:
  
  Current Bug List:
 
-- Blank - neat
+- Navbar links are blue - solution: text-decoration:none;
 
  Ideas:
 
