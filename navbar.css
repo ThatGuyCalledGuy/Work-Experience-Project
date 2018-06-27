@@ -11,6 +11,8 @@
   border-radius: 10px;
   box-shadow: 2px 2px 7px;
   display: flex;
+  margin-bottom: 20px;
+  margin-top: 10px
 }
 .navbar-optionslist{
   width: 100%;
@@ -80,3 +82,5 @@
 .navbar-dropdown:hover .navbar-dropcontent {
   display: block;
 }
+
+
