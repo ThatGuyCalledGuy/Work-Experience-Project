@@ -22,4 +22,4 @@ Useful Links:
 
 Updates in Warwick Site for Guy:
 
-- We are learning Javascript this afternoon for logging in and searching fields (I think)
+- Tom has made a bar which is quite cool and good. Guy, please check it out and decide if we use Tom's bar or use your bar
