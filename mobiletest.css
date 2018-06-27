@@ -3,7 +3,7 @@
   font-family: Helvetica;
 }
 
-@media screen and (max-width:640px) {
+@media screen and (orientation:portrait) {
  .TrendingAndNews {
   background-color: rgba 061,156,125,0.1;
   margin-left: 135px;
