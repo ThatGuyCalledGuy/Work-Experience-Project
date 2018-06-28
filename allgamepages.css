@@ -3,7 +3,7 @@
 }
 
 .TrendingGames {
-  margin-top: 175px;
+  margin-top: 75px;
   display: flex;
   flex-flow: row wrap
 }
