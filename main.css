@@ -26,11 +26,11 @@ img {
 }
 .Userbar a:hover{
     background-color: #10c1c1;
-    color: white;
+    color: #ffffff;
 }
 
 .newslist {
-  box-shadow: 3pt 3pt 5pt;
+  border: solid;
   overflow-y: hidden;
   overflow-x: scroll;
   white-space: nowrap;
