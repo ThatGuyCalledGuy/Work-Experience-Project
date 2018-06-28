@@ -1,0 +1,15 @@
+.settings-grid-container {
+  margin-left: 63px;
+  margin-right: 63px;
+  display: grid;
+  grid-template-columns: 80% 20%;
+  grid-template-rows: auto;
+}
+
+.settings-grid-item {
+  background-color: rgba(255, 255, 255, 0.8);
+  border: 1px solid rgba(0, 0, 0, 0.8);
+  font-size: 15px;
+  text-align: left;
+}
+
