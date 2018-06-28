@@ -92,22 +92,6 @@
   align-items: center;
 }
 
-button {
-    background-color: #999;
-    color: white;
-    padding: 14px 20px;
-    margin: 8px 0;
-    border: none;
-    cursor: pointer;
-    width: 100%;
-    opacity: 0.5;
-}
-
-button:hover {
-    opacity:1;
-}
-
-
 .friends-button-grid-container {
   margin-left: 63px;
   margin-right: 63px;
@@ -121,4 +105,12 @@ button:hover {
   padding: 20px;
   font-size: 15px;
   text-align: center;
+  background-color: #999;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  opacity: 0.5;
 }
