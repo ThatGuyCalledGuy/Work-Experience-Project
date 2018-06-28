@@ -13,9 +13,6 @@ Useful Links:
  
  Current Bug List:
 
-- Navbar's buttons cannot use href, so they are relatively useless since they cannot guide anyone anywhere (To Tom: Solved?)
-- On About page: the text is against the border - add a margin or padding (To Tom: Solved?)
-
  Ideas:
 
 + Background color too dark - maybe #fcfcfc
