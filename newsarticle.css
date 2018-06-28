@@ -1,6 +1,6 @@
 :root {
   font-family: helvetica;
-  background-color: #ddd;
+  background: linear-gradient(#f1f1f1, #f1f1f1,#f1f1f1,   #505050);
 }
 
 .article-section {
