@@ -123,3 +123,31 @@
   margin-left:65px;
   margin-right:65px;
 }
+
+.profile-grid-container {
+  margin-left: 63px;
+  margin-right: 63px;
+  display: grid;
+  grid-template-columns: 130px calc(100% - 130px);
+  grid-template-rows: 130px calc(100% - 130px);
+  background-color: #fff;
+}
+
+.profile-grid-item {
+  background-color: rgba(255, 255, 255, 0.8);
+  border: 1px solid rgba(0, 0, 0, 0.8);
+  font-size: 15px;
+  text-align: left;
+}
+
+.profile-image {
+  width: 100px;
+  height: 100px;
+  margin: auto;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 12px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
