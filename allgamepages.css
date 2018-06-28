@@ -31,6 +31,7 @@ img {
 }
 .Game {
   width: 330px;
+  height: 100%;
   margin: 8px;
   box-shadow: 3pt 3pt 5pt
 }
