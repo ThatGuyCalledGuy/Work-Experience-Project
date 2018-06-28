@@ -19,8 +19,6 @@
   font-size: 15px;
   text-align: left;
 }
-
-
 .entry-articlesection {
   background-color: white;
   width: 93%;
@@ -33,14 +31,7 @@
   height: auto;
   display: block;
 }
-  grid-template-columns: 100px calc(100% - 100px);
-  grid-template-rows: auto;
-  background-color: #fff;
-}
-.friends-grid-item {
-  background-color: rgba(255, 255, 255, 0.8);
-  border: 1px solid rgba(0, 0, 0, 0.8);
-  padding: 20px;
-  font-size: 15px;
-  text-align: left;
+.entry-articlesection p{
+  margin-left: 5px;
+  margin-right: 5px;
 }
