@@ -1,6 +1,6 @@
 :root {
   font-family: helvetica;
-  background-color: #f1f1f1;
+  background-color: #ddd;
 }
 
 .article-section {
@@ -8,7 +8,6 @@
   width: 93%;
   margin-left: auto;
   margin-right: auto;
-  text-indent: 1em;
   padding-bottom: 3px;
   margin-bottom: 35px;
   box-shadow: 5px 5px 20px 5px #555;
@@ -39,12 +38,12 @@
 .article-bigquote {
   margin-left: 0px;
   text-indent: 0em;
-  margin-right: 0px;
   text-align: none;
   margin-top: 0px;
   color: black;
-  font-size: 30pt;
+  font-size: 20pt;
   width: 40%;
+  max-width: 200px;
   float: left;
 }
 
