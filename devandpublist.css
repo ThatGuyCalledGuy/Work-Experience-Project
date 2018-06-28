@@ -13,25 +13,33 @@ body {
 }
 
 .DeveloperContainer {
+  width: 100%;
+  margin: 2px;
+  text-align: center;
+  display: inline-block;
+  overflow-y: hidden;
+  overflow-x: scroll;
+  white-space: nowrap;
+}
+.imageandlinkcontainer {
+  height:100%;
+  width:100%;
   text-align: center;
   display: flex;
-  overflow-x: auto;
-  flex-flow: row nowrap;
-  align-items: stretch;
-  justify-content: space-around;
+  flex-flow: row wrap;
+  background-color: white;
 }
-}
+
 img {
   max-width:100%;
   max-height:100%;
 }
 .dev {
   width: 120px;
-  height: 140px;
+  height: 100%;
   margin: 8px;
-  flex: 0 0 auto;
-  box-shadow: 3pt 3pt 5pt;
-  display: flex;
+  display: inline-block;
+  box-shadow: 3pt 3pt 5pt
 }
 .dev-link {
   text-decoration:none;
