@@ -92,3 +92,23 @@
   justify-content: center;
   align-items: center;
 }
+
+button {
+    background-color: #999;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    opacity: 0.5;
+}
+
+button:hover {
+    opacity:1;
+}
+
+.manage, . newfrd {
+  float: left;
+  width: 50%;
+}
