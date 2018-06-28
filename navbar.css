@@ -1,11 +1,11 @@
 .navbar{
-  background-color: #222;
+  background: linear-gradient(#222 0%,#383838 50%,#222 100%);
   width: 90%;
   margin-left: 5%;
   margin-right: 5%;
   min-height: 60px;
   border-radius: 10px;
-  box-shadow: 2px 2px 7px;
+  box-shadow: 2px 2px 7px #000;
   display: flex;
   margin-bottom: 20px;
   margin-top: 10px;
@@ -54,7 +54,7 @@
 .navbar-logo {
   height: auto;
   width: 160px;
-  background-color: #444;
+  background: linear-gradient(#333 0%,#555 50%,#333 100%);
   border-radius: 10px 0px 0px 10px;
   display: flex;
   float: left;
@@ -74,7 +74,7 @@
 
 .navbar-dropcontent {
   display: none;
-  background-color: grey;
+  background: linear-gradient(#585858,#999);
   min-width: 160px;
   z-index: 1;
   margin-top: 0px;
