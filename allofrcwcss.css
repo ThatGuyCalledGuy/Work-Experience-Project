@@ -2,6 +2,12 @@
   background: linear-gradient(#f1f1f1, #f1f1f1, #f1f1f1, #505050);
   font-family: Helvetica;
 }
+
+.settings-save-button {
+  padding: 14px 20px;
+  background-color: #888888;
+}
+
 .grid-container {
   margin-left: 63px;
   margin-right: 63px;
