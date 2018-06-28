@@ -1,8 +1,7 @@
 :root {
-  background-color: #f1f1f1;
+  background: linear-gradient(#f1f1f1, #f1f1f1,#f1f1f1,   #505050);
   font-family: Helvetica;
 }
-
 .grid-container {
   margin-left: 63px;
   margin-right: 63px;
