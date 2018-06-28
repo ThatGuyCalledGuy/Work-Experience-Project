@@ -162,15 +162,6 @@
   text-align: left;
 }
 
-.my-profile-friends-comments {
-  overflow-y: scroll;
-  background-color: rgba(255, 255, 255, 0.8);
-  border: 1px solid rgba(0, 0, 0, 0.8);
-  padding: 20px;
-  font-size: 15px;
-  text-align: right;
-}
-
 .my-profile-grid {
   margin-left: 63px;
   margin-right: 63px;
@@ -186,4 +177,12 @@
   padding: 20px;
   font-size: 15px;
   text-align: left;
+}
+
+.my-profile-friends-info {
+  background-color: rgba(255, 255, 255, 0.8);
+  border: 1px solid rgba(0, 0, 0, 0.8);
+  padding: 20px;
+  font-size: 15px;
+  text-align: right;
 }
