@@ -16,13 +16,14 @@
   border: 1px solid rgba(0, 0, 0, 0.8);
   font-size: 15px;
   text-align: left;
+  min-height: 45px;
 }
 
 .switch {
   position: relative;
   display: inline-block;
   width: 60px;
-  height: 34px;
+  height: 42px;
 }
 
 .switch input {display:none;}
@@ -42,8 +43,8 @@
 .slider:before {
   position: absolute;
   content: "";
-  height: 26px;
-  width: 26px;
+  height: 42px;
+  width: 42px;
   left: 4px;
   bottom: 4px;
   background-color: white;
