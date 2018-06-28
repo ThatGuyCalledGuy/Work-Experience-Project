@@ -8,8 +8,11 @@ Useful Links:
  Get Filler Text From:
   https://www.lipsum.com/feed/html
   
-  PRESENTAION:
- https://docs.google.com/presentation/d/1bVBGRzDCjQds4SEDCg-iYzJa3bhJoVmjOktKM5pCS88/edit?usp=sharing
+ PRESENTAION:
+   https://docs.google.com/presentation/d/1bVBGRzDCjQds4SEDCg-iYzJa3bhJoVmjOktKM5pCS88/edit?usp=sharing
+ 
+ To make toggle switch:
+   https://www.w3schools.com/howto/howto_css_switch.asp  
  
  Current Bug List:
 
