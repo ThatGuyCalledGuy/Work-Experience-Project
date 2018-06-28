@@ -30,6 +30,7 @@ img {
 }
 
 .newslist {
+  box-shadow: 3pt 3pt 5pt;
   overflow-y: hidden;
   overflow-x: scroll;
   white-space: nowrap;
