@@ -68,10 +68,12 @@
   margin-left: 63px;
   margin-right: 103px;
   display: grid;
-  grid-template-columns: 100px calc(100% - 100px);
+  grid-template-columns: 130px calc(100% - 130px);
+  grid-template-rows: 130px calc(100% - 130px);
   grid-template-rows: auto;
   background-color: #fff;
 }
+
 .friends-grid-item {
   background-color: rgba(255, 255, 255, 0.8);
   border: 1px solid rgba(0, 0, 0, 0.8);
