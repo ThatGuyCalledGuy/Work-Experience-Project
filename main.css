@@ -131,8 +131,7 @@ img {
 .TrendingAndNews {
   background-color: rgba 061,156,125,0.1;
   display: flex;
-  flex-direction: row ltr;
-  flex-wrap: nowrap;
+  flex-flow: row wrap;
   margin-left: auto;
   margin-right: auto;
 }
