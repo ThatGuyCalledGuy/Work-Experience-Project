@@ -1,3 +1,8 @@
+:root {
+  background-color: #f1f1f1;
+  font-family: Helvetica;
+}
+
 .settings-grid-container {
   margin-left: 63px;
   margin-right: 63px;
