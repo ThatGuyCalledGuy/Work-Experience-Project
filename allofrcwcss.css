@@ -118,7 +118,7 @@
 }
 
 .add-friends-button {
-  width:100%;
+  width:calc(100% - 65px);
   margin-left:65px;
   margin-right:65px;
 }
