@@ -154,6 +154,10 @@
 }
 
 .my-profile-info {
+  margin-left: 63px;
+  margin-right: 63px;
+  display: grid;
+  background-color: #fff;
   overflow-y: scroll;
   margin-left: 63px;
   margin-right: 63px;
