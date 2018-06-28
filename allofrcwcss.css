@@ -108,7 +108,12 @@ button:hover {
     opacity:1;
 }
 
-.manage, . newfrd {
+.manage {
   float: left;
+  width: 50%;
+}
+
+. newfrd {
+  float: right;
   width: 50%;
 }
