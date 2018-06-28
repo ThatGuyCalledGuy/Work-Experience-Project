@@ -36,7 +36,7 @@ img {
 }
 .dev {
   width: 120px;
-  height: 100%;
+  height: 100px;
   margin: 8px;
   display: inline-block;
   box-shadow: 3pt 3pt 5pt
@@ -45,5 +45,5 @@ img {
   text-decoration:none;
   color: black;
   width: 100%;
-  height:17px
+  height:20px
 }
