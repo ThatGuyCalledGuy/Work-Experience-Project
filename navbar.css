@@ -97,4 +97,5 @@
 
 .navbar-dropdown:hover .navbar-dropcontent {
   display: block;
+  z-index: 3;
 }
