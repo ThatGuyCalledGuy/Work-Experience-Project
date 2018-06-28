@@ -63,16 +63,6 @@
   margin-top: -30px;
 }
 
-.entry-gallery object {
-  height: 90%;
-  width: auto;
-  display: inline-block;
-  margin-top: 15px;
-  margin-bottom: 0%;
-  margin-left: 5px;
-  margin-right: 5px;
-  box-shadow: 4px 4px 9px;
-}
 .entry-gallery img {
   height: 80%;
   width: auto;
@@ -88,6 +78,27 @@
   height: 90%;
   margin-left: 0px;
   margin-right: 0px;
+}
+
+.entry-videos {
+  width: 90%;
+  margin-left: 5%;
+  margin-right: 5%;
+  overflow: auto;
+  overflow-y: hidden;
+  white-space: nowrap;
+  margin-top: 0px;
+  height: 200px
+}
+
+
+.entry-videos object {
+  width: auto;
+  margin-top: 15px;
+  margin-bottom: 0%;
+  margin-left: 5px;
+  margin-right: 5px;
+  box-shadow: 4px 4px 9px;
 }
 .entry-review h2 {
   display: inline-block;
