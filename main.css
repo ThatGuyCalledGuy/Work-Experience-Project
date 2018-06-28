@@ -88,9 +88,9 @@ img {
   padding: 16px
 }
 
-.newsitemchannel {
-  text-transform: uppercase;
-  padding-top: 20%;
+
+.newsitemheading {
+  text-decoration: none;
 }
 .pageborder{
   background-color: #c1c1c1;
