@@ -1,0 +1,126 @@
+:root {
+  font-family: helvetica;
+  background: linear-gradient(#f1f1f1, #f1f1f1,#f1f1f1,   #505050);;
+}
+
+.entry-articlesection {
+  background-color: white;
+  width: 93%;
+  margin-left: auto;
+  margin-right: auto;
+  text-indent: 1em;
+  padding-bottom: 3px;
+  margin-bottom: 35px;
+  box-shadow: 5px 5px 20px 5px #555;
+  height: auto;
+  display: block;
+}
+
+.entry-coverart-img{
+  width: 80%;
+  max-width: 200px;
+  box-shadow:3pt 3pt 5pt;
+  margin-left: 20px;
+  margin-right: 10px;
+  border-style: solid;
+  border-width: 1.2pt;
+  display: inline-block;
+  float: left;
+}
+}
+.entry-articlesection h1 {
+  font-size: 20pt;
+  color: #333333;
+  padding-top: 10px;
+  margin-top: 10pt;
+  margin-left: 30pt;
+}
+
+.entry-articlesection p {
+  margin-left: 30px;
+  margin-right: 30px;
+  text-align: justify;
+  margin-top: -15px;
+}
+
+.entry-title {
+  font-size: 30pt;
+  text-decoration: underline;
+  margin-left: 30px;
+  margin-top: 30px;
+  margin-bottom: 0px;
+  line-height: 70px;
+}
+
+.entry-gallery {
+  width: 90%;
+  margin-left: 5%;
+  margin-right: 5%;
+  height: 280px;
+  overflow: auto;
+  overflow-y: hidden;
+  white-space: nowrap;
+  margin-top: -30px;
+}
+
+.entry-gallery img {
+  height: 80%;
+  width: auto;
+  display: inline-block;
+  margin-top: 5%;
+  margin-bottom: 0%;
+  margin-left: 5px;
+  margin-right: 5px;
+  box-shadow: 4px 4px 9px;
+}
+.entry-gallery img:hover {
+  margin-top: 0%;
+  height: 90%;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+.entry-videos {
+  width: 90%;
+  margin-left: 5%;
+  margin-right: 5%;
+  overflow: auto;
+  overflow-y: hidden;
+  white-space: nowrap;
+  margin-top: 0px;
+  height: 200px
+}
+
+
+.entry-videos object {
+  width: auto;
+  margin-top: 15px;
+  margin-bottom: 0%;
+  margin-left: 5px;
+  margin-right: 5px;
+  box-shadow: 4px 4px 9px;
+}
+.entry-review h2 {
+  display: inline-block;
+  flow: left;
+}
+
+.entry-review{
+  display: flex;
+  border: solid 2pt #DDD;
+  padding: 5px;
+  margin-left: 7px;
+  margin-right: 7px;
+  margin-bottom: 5px
+}
+.entry-review img{
+  width: 40px;
+  height: 40px;
+  margin-left: 0px;
+  margin-top:15px;
+  margin-right: -20px
+}
+.entry-review p{
+  font-size: 10pt;
+  margin-top: 10pt
+}
