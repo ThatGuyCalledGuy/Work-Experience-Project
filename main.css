@@ -137,14 +137,12 @@ img {
 }
 
 .Trending {
-  border-style: hidden solid hidden hidden;
   margin-right: 1px;
   width: 50%;
 }
 
 
 .News {
-  border-style:hidden hidden hidden solid;
   margin-left: 1px;
   padding-right: 10px;
   width: 50%;
