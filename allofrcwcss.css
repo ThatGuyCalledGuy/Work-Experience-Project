@@ -153,7 +153,7 @@ button:hover {
   margin-left: 63px;
   margin-right: 103px;
   display: grid;
-  grid-template-columns: 30% 70%;
+  grid-template-columns: 100px calc(100% - 100px);
   grid-template-rows: auto;
   background-color: #fff;
 }
