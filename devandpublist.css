@@ -39,7 +39,8 @@ img {
   height: 100px;
   margin: 8px;
   display: inline-block;
-  box-shadow: 3pt 3pt 5pt
+  box-shadow: 3pt 3pt 5pt;
+  margin-bottom: 8px;
 }
 .dev-link {
   text-decoration:none;
