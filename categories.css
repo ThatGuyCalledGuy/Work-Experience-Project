@@ -1,6 +1,6 @@
 :root{
   font-family: helvetica;
-  background: linear-gradient(#f1f1f1, #f1f1f1, #f1f1f1, #505050);
+  background-color: grey;
 }
 .category{
   background-color: white;
@@ -54,6 +54,8 @@
 .game a{
   color: black;
   text-align: center;
-  font-size: 20pt;
+  font-size: 10pt;
+  overflow-wrap: break-word;
+  overflow-x: hidden;
   
 }
