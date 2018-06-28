@@ -148,3 +148,19 @@ button:hover {
   height: auto;
   display: block;
 }
+
+.friends-grid-container {
+  margin-left: 63px;
+  margin-right: 103px;
+  display: grid;
+  grid-template-columns: 30% 70%;
+  grid-template-rows: auto;
+  background-color: #fff;
+}
+.friends-grid-item {
+  background-color: rgba(255, 255, 255, 0.8);
+  border: 1px solid rgba(0, 0, 0, 0.8);
+  padding: 20px;
+  font-size: 15px;
+  text-align: left;
+}
