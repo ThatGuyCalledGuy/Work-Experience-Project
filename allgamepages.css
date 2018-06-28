@@ -3,9 +3,14 @@
   background-color: #f1f1f1
 }
 
+.Title {
+  text-align: center;
+    margin-top: 75px;
+  padding: auto;
+}
+
 .TrendingGames {
   text-align: center;
-  margin-top: 75px;
   display: flex;
   flex-flow: row wrap;
   align-items: stretch;
