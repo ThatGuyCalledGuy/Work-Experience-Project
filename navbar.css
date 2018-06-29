@@ -1,5 +1,6 @@
 .navbar{
   background: linear-gradient(#222 0%,#383838 50%,#222 100%);
+  font-size: 100%;
   width: 90%;
   margin-left: 5%;
   margin-right: 5%;
@@ -8,7 +9,7 @@
   box-shadow: 2px 2px 7px #000;
   display: flex;
   margin-bottom: 20px;
-  margin-top: 10px;
+  margin-top: 8px;
   color: white;
   font-family: helvetica;
     
@@ -23,7 +24,7 @@
   list-style-type: none;
   list-style-width: 0px;
   display: flex;
-  font-size: 15pt;
+  font-size: 100%;
   flex-wrap: wrap;
   justify-content: space-evenly;
   padding: 0px
@@ -62,12 +63,13 @@
 
 .navbar-logo a{
   color: white;
-  font-size: 24pt;
+  font-size: 200%;
   text-align: center;
   margin-right: 0px;
   margin-bottom: 20px;
   padding: 0px 10px 0px 10px;
   margin-top: auto;
+  padding-top: 20px;
   font-weight: bold;
   text-decoration: none;
 }
