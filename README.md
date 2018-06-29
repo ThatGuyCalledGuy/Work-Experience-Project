@@ -7,6 +7,9 @@ Use(less)ful Links:
   
  PRESENTAION:
    https://docs.google.com/presentation/d/1bVBGRzDCjQds4SEDCg-iYzJa3bhJoVmjOktKM5pCS88/edit?usp=sharing
+   
+ Presentation Script:
+   https://docs.google.com/document/d/1mfaG-aPHlIuBlm88ck6I7JaEhyTlYEvuGfGNtaAq1kI/edit
  
 Friday:
 
